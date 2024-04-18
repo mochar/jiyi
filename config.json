@@ -1,0 +1,6 @@
+{
+"label": "JiYi",
+"icon": "icon.png",
+"description": "Anki for Miyoo",
+"launch": "launch.sh"
+}
